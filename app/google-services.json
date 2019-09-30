@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199504186105",
+    "firebase_url": "https://firebashelfara.firebaseio.com",
+    "project_id": "firebashelfara",
+    "storage_bucket": "firebashelfara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199504186105:android:23fa951b1c2b05e22fb028",
+        "android_client_info": {
+          "package_name": "com.example.firebashelfara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199504186105-f4qsiqjlh7ucu73jcpllc6akcf6ev1pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebashelfara",
+            "certificate_hash": "2bf98e30b709a94e2db2cd9df9cf5fd2fc0e2b54"
+          }
+        },
+        {
+          "client_id": "199504186105-208sql1h4eojm2e50ke0dka7lgrc03ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNwfsl6dKvSrqpNDatwe1jKxGawHkHx7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199504186105-208sql1h4eojm2e50ke0dka7lgrc03ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
